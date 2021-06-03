@@ -19,3 +19,13 @@ strong {
 em {
   font-style: bold;
 }
+.intro {
+  font-style: italic;
+}
+.first {
+  color: red;
+  font-size: 12px;
+}
+p.first {
+  font-size: 12px;
+}
